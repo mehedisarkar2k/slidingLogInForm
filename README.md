@@ -6,3 +6,8 @@ This is a simple HTML and CSS project. I use here raw CSS to design this page. G
 - The login part, I named the part as sign-in. There is a simple form title, social media link two fields, and also has forget password option.
 - And, the second form is for registration. this form is also the same design as the sign-in form.
 - When a user shifts one part to another, then there is simple animation to show the form.
+
+## Screenshots
+
+![Sing In form](./Sign_In_Form.jpg)
+![Sing Up form](./Sign_Up_Form.jpg)
